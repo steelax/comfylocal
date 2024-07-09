@@ -1,0 +1,12 @@
+comfyui:
+    base_path: /share
+    checkpoints: models/checkpoints
+    configs: models/checkpoints
+    vae: models/VAE
+    clip: models/clip/
+    clip_vision: models/clip_vision/
+    configs: models/configs/
+    controlnet: models/controlnet/
+    embeddings: models/embeddings/
+    loras: models/loras/
+    upscale_models: models/upscale_models/
