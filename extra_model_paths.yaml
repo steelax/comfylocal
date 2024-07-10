@@ -7,6 +7,37 @@ comfyui:
     clip_vision: models/clip_vision/
     configs: models/configs/
     controlnet: models/controlnet/
-    embeddings: models/embeddings/
+    embeddings: models/embeddings
     loras: models/loras/
     upscale_models: models/upscale_models/
+    insightface: models/insightface/
+    reactor: models/reactor
+    onnx: models/onnx
+    animatediff_models: models/animatediff_models
+    clipseg: models/clipseg
+    diffusers: models/diffusers
+    facerestore_models: models/facerestore_models
+    inpaint: models/inpaint
+    ipadapter: models/ipadapter
+    photomaker: models/photomaker
+    schp: models/schp
+    animatediff_motion_lora: models/animatediff_motion_lora
+    embeddings: models/embeddings
+    gligen: models/gligen
+    lama: models/lama
+    midas: models/midas
+    style_models: models/style_models
+    facedetection: models/facedetection
+    grounding-dino: models/grounding
+    inspyrenet: models/inspyrenet
+    layer_model: models/layer_model
+    mmdets: models/mmdets
+    rembg: models/rembg
+    ultralytics: models/ultralytics
+    vae_approx: models/vae_approx
+    face_parsing: models/face_parsing
+    hypernetworks: models/hypernetworks
+    instantid: models/instantid
+    LLavacheckpoints: models/LLavacheckpoints
+    sams: models/sams
+    unet: models/unet
