@@ -1,5 +1,5 @@
 comfyui:
-    base_path: /share
+    base_path: /shared
     checkpoints: models/checkpoints
     configs: models/checkpoints
     vae: models/VAE
